@@ -1,0 +1,21 @@
+UNIQUE_KEY,PRODUCT_TITLE,PRODUCT_DESCRIPTION,STYLE#,SANMAR_MAINFRAME_COLOR,SIZE,COLOR_NAME,PIECE_PRICE
+PRD001,Classic Cotton T-Shirt,100% cotton comfortable t-shirt,STYLE001,White,S,Pure White,19.99
+PRD002,Classic Cotton T-Shirt,100% cotton comfortable t-shirt,STYLE001,White,M,Pure White,19.99
+PRD003,Classic Cotton T-Shirt,100% cotton comfortable t-shirt,STYLE001,White,L,Pure White,19.99
+PRD004,Classic Cotton T-Shirt,100% cotton comfortable t-shirt,STYLE001,White,XL,Pure White,19.99
+PRD005,Premium Polo Shirt,Premium cotton polo with collar,STYLE002,Navy,S,Navy Blue,29.99
+PRD006,Premium Polo Shirt,Premium cotton polo with collar,STYLE002,Navy,M,Navy Blue,29.99
+PRD007,Premium Polo Shirt,Premium cotton polo with collar,STYLE002,Navy,L,Navy Blue,29.99
+PRD008,Premium Polo Shirt,Premium cotton polo with collar,STYLE002,Navy,XL,Navy Blue,29.99
+PRD009,Sport Hoodie,Comfortable hoodie for active lifestyle,STYLE003,Gray,S,Heather Gray,39.99
+PRD010,Sport Hoodie,Comfortable hoodie for active lifestyle,STYLE003,Gray,M,Heather Gray,39.99
+PRD011,Sport Hoodie,Comfortable hoodie for active lifestyle,STYLE003,Gray,L,Heather Gray,39.99
+PRD012,Sport Hoodie,Comfortable hoodie for active lifestyle,STYLE003,Gray,XL,Heather Gray,39.99
+PRD013,Casual Button-Up,Professional button-up shirt,STYLE004,Blue,S,Sky Blue,34.99
+PRD014,Casual Button-Up,Professional button-up shirt,STYLE004,Blue,M,Sky Blue,34.99
+PRD015,Casual Button-Up,Professional button-up shirt,STYLE004,Blue,L,Sky Blue,34.99
+PRD016,Casual Button-Up,Professional button-up shirt,STYLE004,Blue,XL,Sky Blue,34.99
+PRD017,Performance Tank,Moisture-wicking tank top,STYLE005,Black,S,Jet Black,24.99
+PRD018,Performance Tank,Moisture-wicking tank top,STYLE005,Black,M,Jet Black,24.99
+PRD019,Performance Tank,Moisture-wicking tank top,STYLE005,Black,L,Jet Black,24.99
+PRD020,Performance Tank,Moisture-wicking tank top,STYLE005,Black,XL,Jet Black,24.99

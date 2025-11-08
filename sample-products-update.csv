@@ -1,0 +1,4 @@
+UNIQUE_KEY,PRODUCT_TITLE,PRODUCT_DESCRIPTION,STYLE#,SANMAR_MAINFRAME_COLOR,SIZE,COLOR_NAME,PIECE_PRICE
+PRD001,Classic Cotton T-Shirt,100% cotton comfortable t-shirt,STYLE001,White,S,Pure White,22.99
+PRD005,Premium Polo Shirt - Updated,Premium cotton polo with collar - NEW DESCRIPTION,STYLE002,Navy,S,Navy Blue,32.99
+PRD021,New Product,Brand new product for testing,STYLE006,Red,M,Crimson Red,44.99
